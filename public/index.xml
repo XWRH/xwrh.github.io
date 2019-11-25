@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XWRH</title>
+    <link>https://xwrh.github.io/</link>
+    <description>Recent content on XWRH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xwrh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一个完整的作品</title>
+      <link>https://xwrh.github.io/post/2019-11-24-first-creation/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/post/2019-11-24-first-creation/</guid>
+      <description>这里是 XWRH 的博客，与你一起发现更大的世界。 关于我的个人动态，可以关注我的微博，或者Artstation 网址参见微博。 artstation。 开始</description>
+    </item>
+    
+    <item>
+      <title>Welcome to XWRH Blog</title>
+      <link>https://xwrh.github.io/post/2019-11-23-hello-world/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/post/2019-11-23-hello-world/</guid>
+      <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xwrh.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xwrh.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/top/about/</guid>
+      <description>XWRH 真名叫成群
+2016年毕业于湖北经济学院法商学院广告专业
+2018年毕业于武汉商学院艺术系动画专业
+2018年就职于武汉鼎盛麒麟文化传媒有限公司担任灯光合成师
+2019年2月来到北京，就职北京若森数字科技股份有限公司，担任灯光合成师
+2019年7月就职光禾源信，担任灯光师
+2019年11月就职魔帧影画，担任多面手</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xwrh.github.io/top/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/top/books/</guid>
+      <description>书籍搜索网 三秋书屋-一日不见|如隔三秋( https://www.d4j.cn/)  地址：https://www.d4j.cn/</description>
+    </item>
+    
+  </channel>
+</rss>

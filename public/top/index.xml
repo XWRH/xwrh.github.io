@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on XWRH</title>
+    <link>https://xwrh.github.io/top/</link>
+    <description>Recent content in Tops on XWRH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://xwrh.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://xwrh.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/top/about/</guid>
+      <description>XWRH 真名叫成群
+2016年毕业于湖北经济学院法商学院广告专业
+2018年毕业于武汉商学院艺术系动画专业
+2018年就职于武汉鼎盛麒麟文化传媒有限公司担任灯光合成师
+2019年2月来到北京，就职北京若森数字科技股份有限公司，担任灯光合成师
+2019年7月就职光禾源信，担任灯光师
+2019年11月就职魔帧影画，担任多面手</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xwrh.github.io/top/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/top/books/</guid>
+      <description>书籍搜索网 三秋书屋-一日不见|如隔三秋( https://www.d4j.cn/)  地址：https://www.d4j.cn/</description>
+    </item>
+    
+  </channel>
+</rss>

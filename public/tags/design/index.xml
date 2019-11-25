@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on XWRH</title>
+    <link>https://xwrh.github.io/tags/design/</link>
+    <description>Recent content in design on XWRH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xwrh.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一个完整的作品</title>
+      <link>https://xwrh.github.io/post/2019-11-24-first-creation/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xwrh.github.io/post/2019-11-24-first-creation/</guid>
+      <description>这里是 XWRH 的博客，与你一起发现更大的世界。 关于我的个人动态，可以关注我的微博，或者Artstation 网址参见微博。 artstation。 开始</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,125 @@
+baseurl = "https://zhaohuabing.com"
+title = "XWRH"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+[params]
+  header_image = "img/dushi.jpg"
+  SEOTitle = "XWRH Blog"
+  description = "成群，概念设计师, 开源爱好者，生活探险家 | 这里是 成群 的博客，与你一起发现更大的世界。"
+  keyword = "成群, xwrh, XWRH, , 成群的网络日志, 成群的博客, XWRH Blog, 博客, 个人网站, 互联网, Web"
+  slogan = "但凡不能杀死我的，都会使我更强大"
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "你来到了没有知识的荒原 :("
+
+  # leancloud storage for page view counter
+  page_view_conter = false 
+  leancloud_app_id = ""
+  leancloud_app_key = ""
+
+  # algolia site search
+  algolia_search = true
+  algolia_appId = ""
+  algolia_indexName = ""
+  algolia_apiKey = ""
+
+  # Sidebar settings
+  sidebar_about_description = "Here is XWRH's blog to discover the bigger world with you."
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  # Baidu Analytics
+  ba_track_id = ""
+
+  # We need a proxy to access Disqus api in China
+  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+  disqus_proxy = ""
+  disqus_site = ""
+
+  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
+  reward = true 
+  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
+
+  friend = true
+  bookmarks = false
+  about_me = true
+
+  # Include any custom CSS and/or JS files, url or relative to /static folder
+  #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+  #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+  # Highlight.js theme
+  # demo: https://highlightjs.org/static/demo/
+  highlightjs = "docco"
+
+  [params.social]
+   email          = "1241305320@qq.com"
+  weibo         =  "https://weibo.com/u/5241101790?is_all=1"
+  artstation    = "https://www.artstation.com/xwrh"
+  github         = "https://github.com/XWRH"
+  wechat        =  "img/zhanghao.jpg"
+  zhihu     = "https://www.zhihu.com/people/cheng-qun-54/activities"
+
+#  medium         = "full profile url in medium"
+
+  #pinterest     = "full profile url in pinterest"
+
+  #reddit        = "full profile url in reddit"
+
+  #gitlab        = "full profile url in gitlab"
+
+  #mastodon      = "full profile url in mastodon"
+
+  #keybase       = "full profile url in keybase"
+
+  #git           = "full profile url for git user"
+
+
+
+  [[params.friend_link]]
+  title = "qinyao blog"
+  href =  "http://www.qinyao.net/"
+
+  [[params.bookmark_link]]
+  title =  "Martin Fowler"
+  href =  "https://martinfowler.com"
+  [[params.bookmark_link]]
+  title = "ServiceMesher"
+  href =  "http://www.servicemesher.com"
+  [[params.bookmark_link]]
+  title =  "Pxhere"
+  href = "https://pxhere.com"
+  [[params.bookmark_link]]
+  title = "unsplash"
+  href = "https://unsplash.com"
+
+  [[params.addtional_menus]]
+  title =  "BOOKS"
+  href =  "/top/books/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
